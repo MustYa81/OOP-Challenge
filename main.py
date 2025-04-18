@@ -1,0 +1,7 @@
+pet = Pet("John")
+pet.eat()
+pet.play()
+pet.sleep()
+pet.train("roll over")
+pet.train("play dead")
+pet.get_status()
